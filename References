@@ -1,0 +1,36 @@
+REFERENCES- 
+
+--------FOR ANTENNA TRACKING MECHANISM ----------------------------------------------------
+
+1.  https://www.instructables.com/How-to-use-a-Stepper-Motor/
+2.  https://www.youtube.com/watch?v=KM-5PYfRlso
+3.  https://www.deviceplus.com/raspberry-pi/how-to-run-arduino-sketches-on-raspberry-pi/2/
+4.  https://www.pololu.com/file/0J450/a4988_DMOS_microstepping_driver_with_translator.pdf
+5.  https://www.automate.org/case-studies/what-is-the-difference-between-full-stepping-the-half-stepping-and-the-micro-drive
+6.  https://hackaday.io/project/183713-using-the-arduino-accelstepper-library
+7.  https://www.airspayce.com/mikem/arduino/AccelStepper/index.html
+8.  https://www.youtube.com/watch?v=kT4b3gXf2a4
+9.  https://arduinogetstarted.com/faq/how-to-create-class-and-object-on-arduino-ide
+10. https://www.tutorialspoint.com/arduino/arduino_io_functions.htm
+11. https://create.arduino.cc/projecthub/muhammad-aqib/arduino-pwm-tutorial-ae9d71
+12. https://lastminuteengineers.com/a4988-stepper-motor-driver-arduino-tutorial/
+13. https://www.igismap.com/formula-to-find-bearing-or-heading-angle-between-two-points-latitude-longitude/
+
+--------FOR RASPBERRY-PI IMPLEMENTATION ----------------------------------------------------
+
+1.  https://raspberrytips.com/use-c-on-raspberry-pi/
+2.  https://www.raspberrypi.com/documentation/computers/os.html#gpio-and-the-40-pin-header
+3.  https://www.youtube.com/watch?v=x5g3lJuqEdQ
+4.  https://www.youtube.com/watch?v=Kvq_mnarFFE&list=PLPK2l9Knytg67nkvpnnl81ossAHfOgmqU&index=7
+5.  https://www.cs.odu.edu/~aelmesal/IntroductoryProjects.pdf
+6.  http://wiringpi.com/reference/
+7.  https://iotdesignpro.com/projects/raspberry-pi-stepper-motor-control-through-a-webpage-using-flask
+8.  https://www.youtube.com/watch?v=GVgMM_TFeOw
+9.  https://ubuntu.com/tutorials/how-to-install-ubuntu-desktop-on-raspberry-pi-4#2-prepare-the-sd-card
+10. https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
+11. https://www.youtube.com/watch?v=5sfIIfbegqc
+12. https://www.youtube.com/watch?v=iXpyFSypQCA&list=PLNxBOb2vOWAcdmS2WzU4aoi5-V9MgJei5&index=13
+13. https://www.youtube.com/watch?v=LUbhPKBL_IU
+14. https://www.youtube.com/watch?v=yXMb7SC9gHg
+15. https://www.youtube.com/watch?v=Udub5g_UiMk
+16. https://raspberrypi.stackexchange.com/questions/117714/wiringpi-h-not-found-by-gcc-works-in-raspian-not-ubuntu-mate
