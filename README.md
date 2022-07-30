@@ -10,3 +10,6 @@ For Precise Remote Control, Communication and Navigation Telemetry Purposes of A
 ## Proposed Structure 
 ![Structure](https://user-images.githubusercontent.com/68690657/181877512-a0f3ff63-63cb-46a8-b932-6e0a638aca74.jpg)
 
+## Proposed Ground Conrol Station Realisation
+![schematic](https://user-images.githubusercontent.com/68690657/181877590-acd59cc8-407b-496c-8fca-56c5edf065a7.png)
+
