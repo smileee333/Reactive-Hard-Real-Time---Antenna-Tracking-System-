@@ -7,3 +7,6 @@ For Precise Remote Control, Communication and Navigation Telemetry Purposes of A
 ## Logic Graph 
 ![Logic Graph](https://user-images.githubusercontent.com/68690657/181877363-d2cebcaa-b399-41d7-9e29-a005328bfdfa.PNG)
 
+## Proposed Structure 
+![Structure](https://user-images.githubusercontent.com/68690657/181877512-a0f3ff63-63cb-46a8-b932-6e0a638aca74.jpg)
+
